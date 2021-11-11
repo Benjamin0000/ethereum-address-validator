@@ -2,7 +2,7 @@ Ethereum Address Validator
 --
 (c) by Benjamin Odiowa <benen250@gmail.com>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/maintainability)](https://codeclimate.com/github/benjamin0000/ethereum-address-validator/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/test_coverage)](https://codeclimate.com/github/benjamin0000/ethereum-address-validator/test_coverage) [![Build Status](https://travis-ci.org/benjamin0000/ethereum-address-validator.svg?branch=master)](https://travis-ci.org/benjamin0000/ethereum-address-validator)
+[![Maintainability](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/maintainability)](https://codeclimate.com/github/Benjamin0000/ethereum-address-validator/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/test_coverage)](https://codeclimate.com/github/Benjamin0000/ethereum-address-validator/test_coverage) [![Build Status](https://travis-ci.org/Benjamin0000/ethereum-address-validator.svg?branch=master)](https://travis-ci.org/Benjamin0000/ethereum-address-validator)
 
 ## License
 MPL-2.0
