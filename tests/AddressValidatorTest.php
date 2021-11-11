@@ -1,16 +1,12 @@
 <?php
-    //
-    // psychob/ethereum-address-validator
-    // (c) 2018 - 2019 RGB Lighthouse <https://rgblighthouse.pl>
-    // (c) 2018 - 2019 Andrzej Budzanowski <kontakt@andrzej.budzanowski.pl>
+    // benjamin0000/ethereum-address-validator
     // --
     // See LICENSE for license information.
     //
-
-    namespace Tests\PsychoB\Ethereum;
+    namespace Tests\Benji\Ethereum;
 
     use PHPUnit\Framework\TestCase;
-    use PsychoB\Ethereum\AddressValidator;
+    use Benji\Ethereum\AddressValidator;
 
     class AddressValidatorTest extends TestCase
     {

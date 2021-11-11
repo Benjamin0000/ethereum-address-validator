@@ -1,8 +1,8 @@
 Ethereum Address Validator
 --
-(c) by Andrzej Budzanowski <kontakt@andrzej.budzanowski.pl>
+(c) by Benjamin Odiowa <benen250@gmail.com>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/maintainability)](https://codeclimate.com/github/psychob/ethereum-address-validator/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/test_coverage)](https://codeclimate.com/github/psychob/ethereum-address-validator/test_coverage) [![Build Status](https://travis-ci.org/psychob/ethereum-address-validator.svg?branch=master)](https://travis-ci.org/psychob/ethereum-address-validator)
+[![Maintainability](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/maintainability)](https://codeclimate.com/github/benjamin0000/ethereum-address-validator/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6ed9a66abca4f38be143/test_coverage)](https://codeclimate.com/github/benjamin0000/ethereum-address-validator/test_coverage) [![Build Status](https://travis-ci.org/benjamin0000/ethereum-address-validator.svg?branch=master)](https://travis-ci.org/benjamin0000/ethereum-address-validator)
 
 ## License
 MPL-2.0
@@ -14,13 +14,13 @@ Class that verifies if [Ethereum](https://www.ethereum.org/) address is properly
 Use composer:
 
 ```bash
-composer require psychob/ethereum-address-validator
+composer require benjamin0000/ethereum-address-validator
 ```
 
 ## Usage
 ```php
 <?php
-    use \PsychoB\Ethereum\AddressValidator;
+    use \Benji\Ethereum\AddressValidator;
     
     // Addresses that have good format and checksum are considered valid
     AddressValidator::isValid('0xA477941c7AAD6536f175ef123bf9eeD6F82A4c85') === AddressValidator::ADDRESS_VALID;

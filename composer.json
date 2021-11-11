@@ -5,8 +5,8 @@
   "license": "MPL-2.0",
   "authors": [
     {
-      "name": "Andrzej Budzanowski",
-      "email": "kontakt@andrzej.budzanowski.pl"
+      "name": "Benjamin Odiowa",
+      "email": "benen250@gmail.com"
     }
   ],
   "minimum-stability": "stable",
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "PsychoB\\Ethereum\\": "./src"
+      "Benji\\Ethereum\\": "./src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Tests\\PsychoB\\Ethereum\\": "./tests"
+      "Tests\\Benji\\Ethereum\\": "./tests"
     }
   }
 }
